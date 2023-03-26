@@ -1,0 +1,14 @@
+@import './base.css';
+
+@media (hover: hover) {
+  a:hover {
+    color: #0000;
+    background: 
+      radial-gradient(circle, rgb(255, 255, 255) 28%, rgb(0, 0, 0) 100%)
+      var(--c,0%)/200% no-repeat;
+    -webkit-background-clip: text;
+            background-clip: text;
+    transition: .5s;
+  }
+}
+
