@@ -10,7 +10,7 @@ import Formation from './Topics/formation.vue';
                     <div class="row  g-0">
 
                         <div class="col-md-4">
-                            <img class=" border-0 img-fluid img-thumbnail rounded-start" src="perfil.jpg">
+                            <img class=" border-0 img-fluid img-thumbnail rounded-start" src="/perfil.jpg">
                         </div>
 
                         <div class="col-md-8">

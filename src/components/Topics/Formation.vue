@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-6">
                    <a href="https://www.sololearn.com/certificates/CT-A05FN4XI"> 
-                    <img class="img-fluid img-thumbnail" src="php.jpg" style="width: 100%; height:100%;">
+                    <img class="img-fluid img-thumbnail" src="/php.jpg" style="width: 100%; height:100%;">
                    </a> 
                 </div>
             </diV>
@@ -73,7 +73,7 @@
                     
                     <div class="col-6">
                         <a href="https://www.sololearn.com/certificates/CT-0A7BMHZD"> 
-                            <img class="img-fluid img-thumbnail" src="js.png" style="width: 100%; height:100%;">
+                            <img class="img-fluid img-thumbnail" src="/js.png" style="width: 100%; height:100%;">
                         </a> 
                     </div>
                 </diV>
